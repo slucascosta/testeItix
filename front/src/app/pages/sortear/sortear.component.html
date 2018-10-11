@@ -1,0 +1,52 @@
+<p>
+  Número sorteado:
+</p>
+
+<h1>
+  {{ sorteado[0] }} - {{ sorteado[1] }} - {{ sorteado[2] }} -
+  {{ sorteado[3] }} - {{ sorteado[4] }} - {{ sorteado[5] }}
+</h1>
+
+<button #name btnSortear (click)="sortearNumero()">Sortear</button>
+
+<h3>Ganhador da Mega Sena!</h3>
+<table class="jogos">
+  <tr>
+      <th>Identificador</th>
+      <th>Número</th>
+      <th>Data / Hora</th>
+  </tr>
+  <tr *ngFor="let mega of listMega">
+      <td> {{ mega.Id }} </td>
+      <td> {{ mega.Numero }} </td>
+      <td> {{ mega.Data }} </td>
+  </tr>
+</table>
+
+<h3>Ganhador da Quina!</h3>
+<table class="jogos">
+  <tr>
+      <th>Identificador</th>
+      <th>Número</th>
+      <th>Data / Hora</th>
+  </tr>
+  <tr *ngFor="let quina of listQuina">
+      <td> {{ quina.Id }} </td>
+      <td> {{ quina.Numero }} </td>
+      <td> {{ quina.Data }} </td>
+  </tr>
+</table>
+
+<h3>Ganhador da Quadra!</h3>
+<table class="jogos">
+  <tr>
+      <th>Identificador</th>
+      <th>Número</th>
+      <th>Data / Hora</th>
+  </tr>
+  <tr *ngFor="let quadra of listQuadra">
+      <td> {{ quadra.Id }} </td>
+      <td> {{ quadra.Numero }} </td>
+      <td> {{ quadra.Data }} </td>
+  </tr>
+</table>

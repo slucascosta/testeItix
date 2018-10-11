@@ -1,0 +1,16 @@
+<p>
+  Todos os Jogos
+</p>
+
+<table class="jogos">
+    <tr>
+        <th>Identificador</th>
+        <th>Número</th>
+        <th>Data / Hora</th>
+    </tr>
+    <tr *ngFor="let aposta of apostas">
+        <td> {{ aposta.Id }} </td>
+        <td> {{ aposta.Numero }} </td>
+        <td> {{ aposta.Data }} </td>
+    </tr>
+</table>

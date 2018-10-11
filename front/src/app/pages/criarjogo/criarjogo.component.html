@@ -1,0 +1,18 @@
+<p>
+  Preencha os campos com as dezenas desejadas ou clique em Surpresinha para gerá-las automaticamente.
+</p>
+
+<p>
+  <input #primDezena class="dez" type="text" [(ngModel)]="dezenas[0]" disabled="{{ !dezHabilitadas }}" tabindex="1" />
+  <input class="dez" type="text" [(ngModel)]="dezenas[1]" disabled="{{ !dezHabilitadas }}" tabindex="2" />
+  <input class="dez" type="text" [(ngModel)]="dezenas[2]" disabled="{{ !dezHabilitadas }}" tabindex="3" />
+  <input class="dez" type="text" [(ngModel)]="dezenas[3]" disabled="{{ !dezHabilitadas }}" tabindex="4" />
+  <input class="dez" type="text" [(ngModel)]="dezenas[4]" disabled="{{ !dezHabilitadas }}" tabindex="5" />
+  <input class="dez" type="text" [(ngModel)]="dezenas[5]" disabled="{{ !dezHabilitadas }}" tabindex="6" />
+  <input (click)="gerarJogo()" type="button" value="Surpresinha" tabindex="8" />
+  <input #btnCancelSurpresinha (click)="cancelarSurpresinha()" type="button" value="Cancelar" />
+</p>
+
+<input (click)="apostar()" type="button" value="Apostar" tabindex="7" />
+
+<p #pJogoRealizado></p>
