@@ -1,0 +1,123 @@
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\ApplicationInsights.config
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\csc.exe
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\vbc.exe
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\VBCSCompiler.exe
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Sorteio.dll.config
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Sorteio.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Sorteio.pdb
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.Web.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.ApplicationInsights.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Newtonsoft.Json.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\System.Net.Http.Formatting.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\System.Web.Http.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\System.Web.Http.WebHost.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.Web.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.ApplicationInsights.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\Newtonsoft.Json.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\System.Net.Http.Formatting.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\System.Web.Http.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\bin\System.Web.Http.WebHost.xml
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.dll
+c:\users\lcosta\documents\visual studio 2015\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\ApplicationInsights.config
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\csc.exe
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\System.Collections.Immutable.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\vbc.exe
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\VBCSCompiler.exe
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\roslyn\VBCSCompiler.exe.config
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Sorteio.dll.config
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Sorteio.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Sorteio.pdb
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.Web.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.WindowsServer.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.ApplicationInsights.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Newtonsoft.Json.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\System.Net.Http.Formatting.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\System.Web.Http.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\System.Web.Http.WebHost.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.Web.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.AI.WindowsServer.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.ApplicationInsights.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\Newtonsoft.Json.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\System.Net.Http.Formatting.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\System.Web.Http.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\bin\System.Web.Http.WebHost.xml
+D:\Pessoal\Projetos\Angular\back\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache
+D:\Pessoal\Projetos\Angular\back\Sorteio\obj\Debug\Sorteio.dll
+D:\Pessoal\Projetos\Angular\back\Sorteio\obj\Debug\Sorteio.pdb
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\ApplicationInsights.config
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\csc.exe
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\System.Collections.Immutable.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\vbc.exe
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\VBCSCompiler.exe
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\roslyn\VBCSCompiler.exe.config
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Sorteio.dll.config
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Sorteio.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Sorteio.pdb
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.Web.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.WindowsServer.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.ApplicationInsights.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Newtonsoft.Json.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\System.Net.Http.Formatting.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\System.Web.Http.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\System.Web.Http.WebHost.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.Web.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.AI.WindowsServer.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.ApplicationInsights.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\Newtonsoft.Json.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\System.Net.Http.Formatting.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\System.Web.Http.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\bin\System.Web.Http.WebHost.xml
+D:\Pessoal\Projetos\Itix\back\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache
+D:\Pessoal\Projetos\Itix\back\Sorteio\obj\Debug\Sorteio.dll
+D:\Pessoal\Projetos\Itix\back\Sorteio\obj\Debug\Sorteio.pdb
